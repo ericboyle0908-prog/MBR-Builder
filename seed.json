@@ -1,0 +1,7 @@
+{
+  "geos": ["Montreal", "Cebu", "Cairo"],
+  "statusFlow": ["not_started", "draft", "submitted", "approved"],
+  "coreKpis": ["AHT", "Hold %", "QA %"],
+  "peopleMetrics": ["Attrition", "Absences", "Attendance %", "Productive HC"],
+  "cebuDigitalMetrics": ["Chat AHT", "Average hours", "Chats engaged", "CPH"]
+}
